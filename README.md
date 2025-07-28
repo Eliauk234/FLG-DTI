@@ -1,1 +1,2 @@
 # FLG-DTI
+run RunModel
