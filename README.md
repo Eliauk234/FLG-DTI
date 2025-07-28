@@ -1,2 +1,2 @@
 # FLG-DTI
-run RunModel
+run RunModel.py
